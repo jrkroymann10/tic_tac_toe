@@ -1,6 +1,5 @@
 # Tik-Tac-Toe 
-
-# OOP with four classes: Board, GuideBoard Player, Game
+OOP with four classes: Board, GuideBoard Player, Game
 
 # Board:
 Allows for instantiation of a typical board display, with methods to adjust and    display the board.
